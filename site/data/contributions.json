@@ -1,6 +1,6 @@
 {
  "author": "anishmehta24",
- "updatedAt": "2026-11-12T22:13:16+00:00",
+ "updatedAt": "2026-11-12T22:16:32+00:00",
  "searchUrl": "https://github.com/search?type=pullrequests&q=is%3Apr+is%3Amerged+author%3Aanishmehta24+-user%3Aanishmehta24+-user%3Asaquibjawedbit+-user%3AHarshkumar76+-user%3Akrrishrastogi05",
  "repos": [
   {
@@ -271,7 +271,7 @@
    "name": "jaegertracing/jaeger",
    "url": "https://github.com/jaegertracing/jaeger",
    "description": "CNCF Jaeger, a Distributed Tracing Platform",
-   "stars": 23406,
+   "stars": 23405,
    "language": "Go",
    "languageColor": "#00ADD8",
    "owner": "jaegertracing",
