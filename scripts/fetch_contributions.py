@@ -17,7 +17,7 @@ from pathlib import Path
 AUTHOR = "anishmehta24"
 # PRs to repos owned by these accounts are not counted: my own repos,
 # plus friends' repos where I helped out.
-EXCLUDE_OWNERS = ["anishmehta24", "saquibjawedbit", "Harshkumar76", "krrishrastogi05"]
+EXCLUDE_OWNERS = ["anishmehta24", "saquibjawedbit", "Harshkumar76", "krrishrastogi05", "shreya0517"]
 FIRST_YEAR = 2025
 
 OUT = Path(__file__).resolve().parent.parent / "site" / "data" / "contributions.json"
